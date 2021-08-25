@@ -15,3 +15,4 @@
 6. align-items
 7. align-content
 
+To use just dowload the files and run index.html.
